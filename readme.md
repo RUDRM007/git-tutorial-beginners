@@ -8,3 +8,6 @@ The best ways are:
 
 
 Thank You!
+
+## Summary
+Its a nice repo
